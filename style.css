@@ -536,6 +536,11 @@ form ::placeholder {
     font-size: 30px;
   }
 
+  .speaker-img {
+    position: absolute;
+    width: 40%;
+  }
+
   .features {
     margin: 30rem 5rem 10rem;
     display: flex;
